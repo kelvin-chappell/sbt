@@ -1,9 +1,5 @@
-//addSbtPlugin("com.softwaremill.clippy" %% "plugin-sbt" % "0.5.3")
-addSbtPlugin("com.timushev.sbt" % "sbt-updates" % "0.3.4")
-addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.9.0")
-addSbtPlugin("org.ensime" % "sbt-ensime" % "2.0.2")
-addSbtPlugin("org.scoverage" % "sbt-scoverage" % "1.6.0-M2")
+addSbtPlugin("com.timushev.sbt" % "sbt-updates" % "0.4.0")
+addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.9.2")
+addSbtPlugin("org.scoverage" % "sbt-scoverage" % "1.6.0-M5")
 addSbtPlugin("org.wartremover" % "sbt-wartremover" % "2.4.1")
-//addSbtPlugin("org.wartremover" % "sbt-wartremover-contrib" % "1.2.3")
-//addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.0.0-RC13")
-//addSbtPlugin("com.github.dwickern" % "sbt-classloader-leak-prevention" % "0.4")
+
