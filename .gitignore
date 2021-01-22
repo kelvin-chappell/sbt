@@ -2,4 +2,11 @@ boot
 preloaded
 target
 zinc
+*_credentials
+dependency
+staging
+templates
+launchers
+swoval-jni
+*.jar
 
